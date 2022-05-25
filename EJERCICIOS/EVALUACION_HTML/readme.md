@@ -88,7 +88,7 @@ uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 
   
            
         1. <img src="birthday.jpg"> faltaba generar el atributo para poder vincular la imagen.
-        2. <i>Congratulations!<i> en la etiqueta de cierre hacia falta colocar el slash
+        2. <i>Congratulations!</i> en la etiqueta de cierre hacia falta colocar el slash
         3. <a href="file.html">Enlace de texto</a> la etiqueta de cierre contenia un atributo que no debía estar ahí.
         4. <p>Esto es un párrafo</p> en la etiqueta de cierre el símbolo de barra estaba en la dirección incorrecta.
 
@@ -108,129 +108,81 @@ consideren correcta.
 Preguntas:
     
 1. ¿Qué significa HTML? (valor 0.24)
-    
-        a) Home Tool Markup Language
+            
         b) Hyperlinks and Text Markup Language
-        c) Hyper Text Markup Language
-    
+            
 2. Elige el elemento HTML correcto para el encabezado más grande: (valor 0.24)
-    
-        a) heading
-        b) hed
-        c) h6
+            
         d) h1
     
 3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24)
-
-        a) lb
+        
         b) br
-        c) break
-
+ 
 4. ¿Cuál es el HTML correcto para agregar un color de fondo? (valor 0.24)
-
-        a) <background>yellow</background>
-        b) <body bg="yellow">
-        c) <body style="background-color:yellow;">
+       
+       c) <body style="background-color:yellow;">
     
 5. Elija el elemento HTML correcto para definir texto importante (valor 0.24)
-    
-        a) b
+            
         b) strong
-        c) i
-        d) important
-    
+                
 6. Elija el elemento HTML correcto para definir el texto enfatizado (valor 0.24)
     
-        a) italic
         b) em
-        c) i
-
+       
 7. ¿Cuál es el HTML correcto para crear un hipervínculo? (valor 0.24)
-
-        a) <a>https://adip.cdmx.gob.mx/</a>
-        b) <a name="https://adip.cdmx.gob.mx">ADIP</a>
+      
         c) <a href="https://adip.cdmx.gob.mx">ADIP</a>
-        d) <a url=”https://adip.cdmx.gob.mx">ADIP</a>
-  
-  
+          
 8. ¿Cómo puedes abrir un enlace en una nueva pestaña/ventana del navegador? (valor 0.24)
-  
-        a) <a href="url" target="new">
+         
         b) <a href="url" target="_blank">
-        c) <a href="url" new>
-  
+         
 9. ¿Cuáles de estos elementos son todos elementos de table? (valor 0.24)
-  
-          a) thead body  tr
-          b) table  tr  tt
-          c) table  head  tfoot
+                     
           d) table  tr  td
   
 10. Los elementos inline normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
-          a) Verdadero
-          b) Falso
-    
-  
+          Falso
+            
 11. ¿Cómo puedes hacer una lista numerada? (valor 0.24)
-  
-          a) list
+            
           b) ol
-          c) ul
-          d) dl
-  
+            
 12. ¿Cómo se puede hacer una lista con viñetas? (valor 0.24)
-  
-          a) ol
+           
           b) ul
-          c) list
-          d) dl
-  
-13. ¿Cuál es el HTML correcto para hacer una casilla de verificación (checkbox )? (valor 0.24)
-  
-          a) input type="check"
-          b) check
-          c) checkbox
+                    
+  13. ¿Cuál es el HTML correcto para hacer una casilla de verificación (checkbox )? (valor 0.24)
+                       
           d) <input type="checkbox">  
 
 14. ¿Cuál es el HTML correcto para crear un campo de entrada de texto? (valor 0.24) 
   
-          a) textfield
-          b) textinput type="text"
-          c) input type="textfield"
-          d) input type="text"
+          d) <input type="text">
   
 15. ¿Cuál es el HTML correcto para hacer una lista desplegable? (valor 0.24)
-  
-          a) list
-          b) input type="list"
-          c) input type="dropdown"
-          d) select
+           
+          d) <select name="" id=""> </select>
   
 16. ¿Cuál es el HTML correcto para hacer un área de texto? (valor 0.24)
-  
-          a) input type="textbox"
-          b) input type="textarea"
-          c) textarea
-  
+            
+          b) <input type="textarea">
+           
 17. ¿Cuál es el HTML correcto para insertar una imagen? (valor 0.24
   
           a) <img src="image.gif" alt="Mi imagen">
-          b) <img href="image.gif" alt="Mi imagen">
-          c) <img alt="Mi imagen">image.gif</img>
-          d) <image src="image.gif" alt="Mi imagen">
-  
+          
 18. ¿Cuál es el HTML correcto para insertar una imagen de fondo? (valor 0.24)
-  
-          a) <body bg="background.gif">
+                   
           b) <body style="background-image:url(background.gif)">
-          c) <background img="background.gif">
-  
+            
 19. Los comentarios HTML comienzan con ![image](https://user-images.githubusercontent.com/91554777/164576568-aa1ae841-a85f-486b-b286-be51bfc8cd4e.png) (valor 0.24)
   
         a) Verdadero
-        b) Falso
-
+        
 20.Los elementos de bloque normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
         a) Verdadero
@@ -239,29 +191,19 @@ Preguntas:
 21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
   
         a) title
-        b) head
-        c) meta
-  
+          
 22.¿Qué atributo HTML especifica un texto alternativo para una imagen, si la imagen no se puede mostrar? (valor 0.24)
-
-        a) longdesc
-        b) src
+               
         c) alt
-        d) title
-  
+        
 23. ¿Qué tipo de documento es correcto para HTML5? (valor 0.24)
   
         a) <!DOCTYPE html>
-        b) <!DOCTYPE HTML5>
-  
-c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0//EN\"\"http://www.w3.org/TR/html5/strict.dtd\">
-  
+ 
 24.¿Qué elemento HTML se usa para especificar un pie de página para un documentoo sección? (valor 0.24)
-  
-        a) bottom
+         
         b) footer
-        c) section
-  
+          
 25. ¿Cuál es el elemento HTML correcto para reproducir archivos de video? (valor 0.24)
   
         a) video
