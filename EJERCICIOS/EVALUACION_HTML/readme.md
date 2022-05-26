@@ -94,7 +94,8 @@ Indicaciones: La siguiente imagen muestra el contenido de la página web del per
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
 los recuadros según corresponda: (valor 0.3 cada una, total 1.8)
     
- ![image](https://user-images.githubusercontent.com/91554777/164572088-a10117ae-7343-4ad9-9d51-48ae5beb5dbb.png)
+ ![IMG EVALUACIÓN_HTML](https://user-images.githubusercontent.com/103280092/170402542-5d736772-fa3f-4ca3-8638-6d64d7ac93b5.jpg)
+
     
 ## 4. LENGUAJE HTML
 
