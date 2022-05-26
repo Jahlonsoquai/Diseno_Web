@@ -221,3 +221,66 @@ extensión .html
 ● No es necesario que incluyas los estilos (CSS) para cada elemento en esta
 actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
+
+#### SCRIPT.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluación HTML</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <header>
+        <h1>ENCABEZADO NIVEL 1</h1>
+        <nav>
+            <ul>
+                <li><a href="">Enlace 1</a></li>
+                <li><a href="">Enlace 2</a></li>
+                <li><a href="">Enlace 3</a></li>
+                <li><a href="">Enlace 4</a></li>                
+            </ul>
+        </nav>
+    </header>
+
+        <main>
+            <section>
+                <article>
+                    <h2>Encabezado nivel 2</h2>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio veniam reiciendis quisquam libero soluta
+                        blanditiis obcaecati qui modi voluptatem adipisci! Dolorum laboriosam numquam consequatur suscipit maxime corporis
+                        qui consectetur in perspiciatis pariatur, impedit commodi aperiam beatae dolore repudiandae cum, necessitatibus
+                        excepturi ducimus perferendis doloremque odio? Cupiditate aperiam ipsa veritatis! Quos.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo incidunt debitis totam illum hic velit unde, quo
+                            voluptatum non ex culpa ipsa odit facilis recusandae ipsam necessitatibus impedit fugit ad voluptatibus minus
+                            laboriosam? Molestiae est doloribus suscipit quasi, commodi, corporis sapiente cupiditate nihil dolore minima fuga
+                            ut sequi ipsa autem!</p>
+                </article>
+                <aside>
+                     <h3>APARTADO</h3>
+                     <p><b>Elige una opción:</b></p>
+                    <form action="">
+                        <label for="name1">
+                        <input type="radio" name="option" id="name1">Opción 1 </label><br>
+                        <label for="name2">
+                        <input type="radio" name="option" id="name2">Opción 2</label><br>
+                        <label for="name3">
+                        <input type="radio" name="option" id="name3">Opción 3</label><br>
+                        <label for="name4">
+                        <input type="radio" name="option" id="name4">Opción 4</label><br>
+                        
+                        <br><input type="submit" value="Enviar">
+                    </form>
+                </aside>
+            </section>
+        </main>
+    
+
+    <footer>
+        <p>Lorem ipsum dolor sit amet.</p> <p>Lorem ipsum dolor sit amet consectetur.</p>
+    </footer>
+</body>
+</html>
