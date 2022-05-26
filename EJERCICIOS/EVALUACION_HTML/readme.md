@@ -14,7 +14,7 @@ Preguntas:
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
         EL LENGUAJE DE ETIQUETAS ES EL ENCARGADO DE ORGANIZAR LA ESTRUCTURA FUNCIONAL Y VISUAL DEL SITIO O LA PAGINA WEB QUE SE ESTE ESCRIBIENDO O DESARROLLANDO. 
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
-        SUS PRINCIPALES VENTAJAS SON SUS ETIQUETAS SEMÁNTICAS, LAS CUALES AYUDAN A DESARROLLAR MUCHO MÁS EFICIENTEMENTE LA ESTRUCTURA DE LAS APLICACIONES O PÁGINAS WEB, INTEGRA UNA MANERA MÁS AMIGABLE DE REALIZAR FORMULARIOS Y SU COMPATIBILIDAD CON LOS NAVEGADORES WEB SE POTENCIALIZA
+        SUS PRINCIPALES VENTAJAS SON SUS ETIQUETAS SEMÁNTICAS, LAS CUALES AYUDAN A DESARROLLAR MUCHO MÁS EFICIENTEMENTE LA ESTRUCTURA DE LAS APLICACIONES O PÁGINAS WEB, INTEGRA UNA MANERA MÁS AMIGABLE DE REALIZAR FORMULARIOS Y SU COMPATIBILIDAD MULTIMEDIA CON LOS NAVEGADORES WEB SE POTENCIALIZA
 
 5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0)
         ES EL ENCARGADO DE OBTENER LOS DATOS DE LOS SERVIDORES ALOJADOS EN INTERNET, EL MOTOR LOS INTERPRETA Y LOS LEE DESDE EL LENGUAJE DE HIPERTEXTO Y ETIQUETADO, PARA QUE SE VISUALICEN TAL CUAL SON EN EL NAVEGADOR ANTE EL USUARIO.
@@ -31,7 +31,7 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 Preguntas:
 
 1. Describe al menos 5 características básicas de un editor de texto. (valor 1.0)
-        SON ÚTILES PARA ESCRIBIR, BORRAR; COPIAR, CORTAR, PEGAR; REHACER O DESHACER TEXTO DE LOS SCRIPTS O DOCUMENTOS ELABORADOS.
+        SON ÚTILES PARA ESCRIBIR, BUSCAR; COPIAR, CORTAR, PEGAR; REHACER O DESHACER TEXTO DE LOS SCRIPTS O DOCUMENTOS ELABORADOS.
 
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
         BLOC DE NOTAS, PSPAD, TEXTEDIT, VISUAL STUDIO CODE, ATOM.
@@ -52,7 +52,6 @@ referente a los estilos (CSS), etc. (valor 1.0)
 
         a) Cierto
         
-
 ## 3. ESTRUCTURA BÁSICA DE UN DOCUMENTO HTML
 
 Objetivo: Verificar el dominio del concepto de web semántica y su estructura.
@@ -60,7 +59,7 @@ Indicaciones: Pedir responder o seleccionar la respuesta correcta según sea el 
 Preguntas:
 
 1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)
-        UNA ETIQUETA SON LAS PALABRAS RESERVADAS O CLAVE DE EL LENGUAJE HTML, POR EJEMPLO <html></html>, LAS CUALES GENERAN LA ORDEN DE LO QUE SE VA A RALIZAR. LOS ELEMENTOS SON EL CONTENIDO DENTRO DE LAS ETIQUETAS POR EJEMPLO <p>Esto es un párrafo</p>, "Esto es un párrafo" es un contenido; p y /p son elementos.
+        UNA ETIQUETA SON LAS PALABRAS RESERVADAS O CLAVE DE EL LENGUAJE HTML, POR EJEMPLO <html></html>, LAS CUALES GENERAN LA ORDEN DE LO QUE SE VA A RALIZAR. LOS ELEMENTOS SON EL CONTENIDO DENTRO DE LAS LLAVES DE LAS ETIQUETAS PARA DETERMINAR EL ARMADO DE LA PÁGINA, POR EJEMPLO <p>Esto es un párrafo</p>, "Esto es un párrafo" ES UN CONTENIDO; p y /p SON ELEMENTOS.
 
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
 
@@ -145,7 +144,7 @@ Preguntas:
   
 10. Los elementos inline normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
-          Falso
+         a) Verdadero
             
 11. ¿Cómo puedes hacer una lista numerada? (valor 0.24)
             
@@ -185,12 +184,11 @@ Preguntas:
         
 20.Los elementos de bloque normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
-        a) Verdadero
         b) Falso
   
 21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
   
-        a) title
+        title
           
 22.¿Qué atributo HTML especifica un texto alternativo para una imagen, si la imagen no se puede mostrar? (valor 0.24)
                
@@ -207,9 +205,7 @@ Preguntas:
 25. ¿Cuál es el elemento HTML correcto para reproducir archivos de video? (valor 0.24)
   
         a) video
-        b) media
-        c) movie
-  
+          
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la maquetación en código html, valor 18)
   
 ![image](https://user-images.githubusercontent.com/91554777/164575358-76757050-5393-44a3-a075-0583e749b4e8.png)
