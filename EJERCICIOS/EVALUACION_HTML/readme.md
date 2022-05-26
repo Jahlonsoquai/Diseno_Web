@@ -12,7 +12,7 @@ Preguntas:
         LA HIPERMEDIA ES UNA COMBINACIÓN DE TEXTO, DOCUMENTOS, GRÁFICOS, IMÁGENES, AUDIOS, VIDEOS, IMAGENES DINÁMICAS, ETC. ESTE CONJUNTO DE CONTENIDO SE RELACIONA ENTRE SI DE MANERA LÓGICA, POR MEDIO DE VINCULOS, PARA OFRECERLE AL USUARIO UNA INTERACCIÓN MÁS EFICIENTE CON LA INFORMACIÓN QUE REQUIERA.
         
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
-        EL LENGUAJE DE ETIQUETAS ES EL ENCARGADO DE ORGANIZAR LA ESTRUCTURA FUNCIONAL Y VISUAL DEL SITIO O LA PAGINA WEB QUE SE ESTE ESCRIBIENDO O DESARROLLANDO. 
+        EL LENGUAJE DE ETIQUETAS ES EL ENCARGADO DE ORGANIZAR LA ESTRUCTURA FUNCIONAL DEL SITIO O LA PAGINA WEB QUE SE ESTE ESCRIBIENDO O DESARROLLANDO. 
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
         SUS PRINCIPALES VENTAJAS SON SUS ETIQUETAS SEMÁNTICAS, LAS CUALES AYUDAN A DESARROLLAR MUCHO MÁS EFICIENTEMENTE LA ESTRUCTURA DE LAS APLICACIONES O PÁGINAS WEB, INTEGRA UNA MANERA MÁS AMIGABLE DE REALIZAR FORMULARIOS Y SU COMPATIBILIDAD MULTIMEDIA CON LOS NAVEGADORES WEB SE POTENCIALIZA
 
@@ -72,8 +72,7 @@ material en el que se encuentra (como una barra lateral)? (valor 0.3)
   
 4. De los siguientes elementos, seleccione el que NO clasifica como marcado semántico. (valor 0.3)
                 
-        c) time
-        
+       
 5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
         *p. Usado para escribir texto.   
         *header. Usado para el encabezado y los contenidos introductorios de la página.
@@ -188,7 +187,7 @@ Preguntas:
   
 21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
   
-        title
+        a) title
           
 22.¿Qué atributo HTML especifica un texto alternativo para una imagen, si la imagen no se puede mostrar? (valor 0.24)
                
