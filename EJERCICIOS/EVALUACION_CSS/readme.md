@@ -158,13 +158,13 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
           </head>
           <body>
               <header>
-                  <img src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/assets/images/logo.svg" alt="Gobierno                      de la Ciudad de México"><hr>
+                  <img src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/assets/images/logo.svg" alt="Gobierno de la Ciudad de México"><hr>
                   <nav>
                       <ul>
-                          <a class="sd" href="#" ><li>Residentes</li></a>
-                          <a  class="sd" href="#" ><li>Negocios</li></a>
-                          <a class="sd" href="#" ><li>Visitantes</li></a>
-                          <a  class="sd" href="#" ><li>Gobierno</li></a>
+                          <a class="sd" href="#"><li>Residentes</li></a>
+                          <a class="sd" href="#"><li>Negocios</li></a>
+                          <a class="sd" href="#"><li>Visitantes</li></a>
+                          <a class="sd" href="#"><li>Gobierno</li></a>
                       </ul>
                   </nav>
               </header>
@@ -172,7 +172,7 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
               <main>
                   <div class="boxo">
                      <div class="boxi">
-                      <p id="p0"><img src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero-                              vector.svg" alt="Vector" width="80px" height="80px"><b>APRENDE A PROGRAMAR</b></p>
+                      <p id="p0"><img src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero-vector.svg" alt="Vector" width="80px" height="80px"><b>APRENDE A PROGRAMAR</b></p>
                       <p id="p1"><b>EN LAS</b><span><b>ESCUELAS</b></span></p>
                       <p id="p2"><b>DE CÓDIGO</b></p>
                       <p id="p3"><b>DE LA CDMX</b></p>
