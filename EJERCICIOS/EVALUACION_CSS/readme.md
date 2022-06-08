@@ -141,144 +141,169 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 -El texto alternativo para la primer imagen imagen debe ser “Gobierno de la Ciudad de México”
 
 
-          INGRESA AQUI EL CÓDIGO HTML
+## INGRESA AQUI EL CÓDIGO HTML
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Escuelas de Cógido CDMX</title>
-    <link rel="stylesheet" href="css/estilos.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&family=Spline+Sans+Mono&display=swap"
-        rel="stylesheet">
-</head>
-<body>
-    <header>
-        <img src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/assets/images/logo.svg" alt="Gobierno de la Ciudad de México"><hr>
-        <nav>
-            <ul>
-                <li>Residentes</li>
-                <li>Negocios</li>
-                <li>Visitantes</li>
-                <li>Gobierno</li>
-            </ul>
-        </nav>
-    </header>
-    
-    <main>
-        
-        <div class="boxs">
-            <p><img src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero-vector.svg" alt="Vector" width="80px" height="80px">APRENDE A PROGRAMAR</p>
-            <p id="p1">EN LAS <span>ESCUELAS</span></p>
-            <p id="p2">DE CÓDIGO</p>
-            <p id="p3">DE LA CDMX</p>
-                        
-        </div>
-    </main>
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+              <meta charset="UTF-8">
+              <meta http-equiv="X-UA-Compatible" content="IE=edge">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>Escuelas de Cógido CDMX</title>
+              <link rel="stylesheet" href="css/estilos.css">
+              <link rel="preconnect" href="https://fonts.googleapis.com">
+              <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+              <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&family=Spline+Sans+Mono&display=swap"
+                  rel="stylesheet">
+          </head>
+          <body>
+              <header>
+                  <img src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/assets/images/logo.svg" alt="Gobierno                      de la Ciudad de México"><hr>
+                  <nav>
+                      <ul>
+                          <a class="sd" href="#" ><li>Residentes</li></a>
+                          <a  class="sd" href="#" ><li>Negocios</li></a>
+                          <a class="sd" href="#" ><li>Visitantes</li></a>
+                          <a  class="sd" href="#" ><li>Gobierno</li></a>
+                      </ul>
+                  </nav>
+              </header>
 
-    <footer>
-        <h2>¿Quién se puede inscribir?</h2>
-        <p>Cualquier persona que quiera aprender a programar código y cuente con 4-8 horas disponibles a la semana</p>
-        <p>*Menores de edad deberán entrar a las instalaciones acompañados de un adulto</p>
-    </footer>
-</body>
-</html>
+              <main>
+                  <div class="boxo">
+                     <div class="boxi">
+                      <p id="p0"><img src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero-                              vector.svg" alt="Vector" width="80px" height="80px"><b>APRENDE A PROGRAMAR</b></p>
+                      <p id="p1"><b>EN LAS</b><span><b>ESCUELAS</b></span></p>
+                      <p id="p2"><b>DE CÓDIGO</b></p>
+                      <p id="p3"><b>DE LA CDMX</b></p>
+                      </div>
+                  </div>
+              </main>
+
+              <footer>
+                  <h2>¿Quién se puede inscribir?</h2>
+                  <p><b>Cualquier persona que quiera aprender a programar código y cuente con 4-8 horas disponibles a la semana</b></p>
+                  <p>*Menores de edad deberán entrar a las instalaciones acompañados de un adulto</p>
+              </footer>
+          </body>
+          </html>         
           
-                    
-          INGRESA AQUI EL CSS
+## INGRESA AQUI EL CSS
           
-* {
-    margin:0;
-    padding: 0;
-}
+          * {
+              margin:0;
+              padding: 0;
+          }
 
-main{
-    background: url(https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 60vh;
-    width: auto;
-}
+          main{
+              background: url(https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg);
+              background-repeat: no-repeat;
+              background-position: center;
+              background-size: cover;
+              height: 60vh;
+              width: 100%;
+          }
 
-nav{
-    display: flex;
-    justify-content: flex-end;
-}
+          nav{
+              display: flex;
+              justify-content: flex-end;
 
-ul{
-   display: flex; 
-}
+          }
 
-li{
-    margin-left: 20px;
-    padding: 10px;
-    color:green;
-    font-family: 'Spline Sans Mono', monospace;
-    list-style-type: none;
-}
+          ul{
+             display: flex;
+          }
 
-.boxs{
-    position: fixed;
-    height: 60vh;
-    width: 60%;
-}
+          li{
+              margin-left: 20px;
+              padding: 10px;
+              color:green;
+              font-family: 'Spline Sans Mono', monospace;
+              list-style-type: none;
+          }
 
-div p{
-    left: 60px;
-    font-family: 'Spline Sans Mono', monospace;
-    font-size: 4.5em;
-    color: ivory;
-    
-    
-}
-
-div span{
-    font-family: 'Spline Sans Mono', monospace;
-    font-size: 120px;
-    color: ivory;
-    font-weight: bold;    
-}
-
-#p1{
-    text-indent: 180px;
-    font-family: 'Spline Sans Mono', monospace;
-    color: ivory; 
-    font-size: 4.5em;
-    
-}
+          .sd{
+              text-decoration-line: none;
+          }
 
 
-#p2{
-    font-family: 'Spline Sans Mono', monospace;
-    color: ivory; 
-    font-size: 120px;
-    font-weight: bold;
-    text-indent: 490px;
-    word-spacing: -70px;
+          .boxo{
+              position: fixed;
+              height: 60vh;
+              width: 70%;
+              padding-top: 20px;
+              padding-bottom: 20px;
+          }
 
-}
+          .boxi{
+              padding-top: 30px;
+              padding-bottom: 30px;
+          }
 
-#p3{
-    font-family: 'Spline Sans Mono', monospace;
-    color: ivory; 
-    font-size: 4.5em;
-    text-indent: 490px;
-}
+          #p0{
+              left: 60px;
+              font-family: 'Spline Sans Mono', monospace;
+              font-size: 4.2em;
+              color: white;
+              letter-spacing: 8px;
 
-footer h2{
-    color:goldenrod;
-    font-weight: bold;
-    
-}
-footer{
-    text-align: center;
-}
+          }
+
+          div span{
+              font-family: 'Spline Sans Mono', monospace;
+              font-size: 110px;
+              color: white;
+              font-weight: bold; 
+              letter-spacing: 1px;
+          }
+
+          #p1{
+              text-indent: 180px;
+              font-family: 'Spline Sans Mono', monospace;
+              color: white; 
+              font-size: 4.2em;
+              text-indent: 208px;
+              letter-spacing: 8px;
+              word-spacing: -25px;  
+
+          }
+
+
+          #p2{
+              font-family: 'Spline Sans Mono', monospace;
+              color: white; 
+              font-size: 110px;
+              font-weight: bold;
+              text-indent: 490px;
+              word-spacing: -50px;
+
+          }
+
+          #p3{
+              font-family: 'Spline Sans Mono', monospace;
+              color: white; 
+              font-size: 4.2em;
+              text-indent: 490px;
+              letter-spacing: 8px;
+          }
+
+          footer h2{
+              color:goldenrod;
+              font-weight: bold;
+
+          }
+
+          footer{
+              text-align: center;
+              font-size: 20px;
+              font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+          }
 
           
           
- Ingresa el link a tu página del proyecto final
+## Ingresa el link a tu página del proyecto final
+ 
+ https://jahlonsoquai.github.io/Proyecto_EvaluacionCSS/
+ 
+ 
